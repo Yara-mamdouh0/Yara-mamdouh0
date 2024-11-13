@@ -1,7 +1,28 @@
-<h1 align="center">Hi 👋, I'm Yara Mamdouh</h1>
-<h3 align="center">I am a computer science student with a strong grasp of data analysis, machine learning, deep learning, and computer vision. I'm skilled in various data science techniques, including data analysis, modelling, algorithms, and machine learning tools. I'm dedicated to continuously learning and improving my skills to stay current in this dynamic field.</h3>
+<h1 align="center">Hello, I'm Yara Mamdouh</h1>
+<h3 align="center">I am a Computer Science student with a deep passion for data analysis, machine learning, deep learning, and computer vision. I am dedicated to continuously improving my skills and knowledge to stay at the forefront of technology and data science.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact Information:</h3>
+<p align="left">
+  <b>Email:</b> <a href="mailto:yara.mamdouh@example.com">yara.mamdouh@example.com</a><br>
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/yara-mamdouh" target="blank">Yara Mamdouh</a><br>
+  <b>Kaggle:</b> <a href="https://www.kaggle.com/yaramamdouh" target="blank">yaramamdouh</a>
+</p>
+
+<h3 align="left">Language Proficiency:</h3>
+<p align="left">
+  <b>Arabic:</b> Native<br>
+  <b>English:</b> Advanced<br>
+</p>
+
+<h3 align="left">Professional Involvement:</h3>
+<p align="left">
+  <b>supervisor:</b> CAT Reloaded<br>
+  <b>Volunteer:</b> International Collegiate Programming Contest (ICPC)<br>
+  <b>Member:</b>(CIS) Team<br>
+  <b>Training:</b> Samsung Innovation Campus
+</p>
+
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yara-mamdouh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yara Mamdouh LinkedIn" height="30" width="40" />
@@ -11,7 +32,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technical Skills and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
