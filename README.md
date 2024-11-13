@@ -16,20 +16,10 @@
 
 <h3 align="left">Professional Involvement:</h3>
 <p align="left">
+   <b>Training:</b> Samsung Innovation Campus<br>
   <b>supervisor:</b> CAT Reloaded<br>
   <b>Volunteer:</b> International Collegiate Programming Contest (ICPC)<br>
-  <b>Member:</b>(CIS) Team<br>
-  <b>Training:</b> Samsung Innovation Campus
-</p>
-
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/yara-mamdouh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yara Mamdouh LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/yaramamdouh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Yara Mamdouh Kaggle" height="30" width="40" />
-  </a>
+  <b>Member:</b>(CIS) Team
 </p>
 
 <h3 align="left">Technical Skills and Tools:</h3>
