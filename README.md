@@ -3,7 +3,7 @@
 
 <h3 align="left">Contact Information:</h3>
 <p align="left">
-  <b>Email:</b> <a href="mailto:yara.mamdouh@example.com">yara.mamdouh@example.com</a><br>
+  <b>Email:</b> <a href="mailto:yaramamdouh717@gmail.com">yara.mamdouh@example.com</a><br>
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/yara-mamdouh" target="blank">Yara Mamdouh</a><br>
   <b>Kaggle:</b> <a href="https://www.kaggle.com/yaramamdouh" target="blank">yaramamdouh</a>
 </p>
