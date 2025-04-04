@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Yara Mamdouh
+#  Hi, I'm Yara Mamdouh
 
-🎓 **Computer Science Student** passionate about **Data Analysis, Machine Learning, and Computer Vision**.
+ **Computer Science Student** passionate about **Data Analysis, Machine Learning, and Computer Vision**.
 
-## 💬 Contact
+##  Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaramamdouh717@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yara-mamdouh)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yaramamdouh)
 
-## 🛠 Skills
+##  Skills
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
