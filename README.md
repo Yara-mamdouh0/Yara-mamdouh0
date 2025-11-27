@@ -1,6 +1,6 @@
 #  Hi, I'm Yara Mamdouh
 
- **Computer Science Student** passionate about **Data Analysis, Machine Learning, and Computer Vision**.
+ **Computer Science student passionate about Machine Learning, Computer Vision, and LLMs/Generative AI, driven to develop impactful AI applications and explore cutting-edge technologies.**.
 
 ##  Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaramamdouh717@gmail.com)
